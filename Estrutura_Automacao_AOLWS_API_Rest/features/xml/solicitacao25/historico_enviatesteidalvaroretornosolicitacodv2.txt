@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<resultados idagente="173454" lis="VINTEAMOSTRAS02" operador="teste@teste.com" senha="31D08B" padrao="">
+   	<entidade codigo="16612">
+    <solicitacao idAlvaro="137908283">
+    </solicitacao>
+   	</entidade>
+	</resultados>

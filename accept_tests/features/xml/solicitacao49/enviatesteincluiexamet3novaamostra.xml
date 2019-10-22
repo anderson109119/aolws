@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO‌-8859-1"?>
+		<inclusoes datahora="2014-05-02T10:35:56" idagente="175342" lis="B" operador="YY" senha="4D74C5">
+		<entidade codigo="8776">
+		<solicitacao idAlvaro="300350271">
+		<amostra material="543" identificacao="" descricao="" novaAmostra="true">
+		<exame codigoExame="T3" dadosadicionais="volume=200"/>
+		</amostra>
+		</solicitacao>
+		</entidade>
+		</inclusoes>

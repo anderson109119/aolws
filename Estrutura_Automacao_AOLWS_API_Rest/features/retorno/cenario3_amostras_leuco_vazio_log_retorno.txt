@@ -1,0 +1,1980 @@
+Dta:2018-12-08_Horario_Execucao:19hs-59min-57segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="140.0">
+        <pacientes tempoProcessamento="109.0">
+            <paciente idAlvaro="178403196" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="7738.0">
+        <solicitacao idLis="20181208195923373" incluido="true" baseBarras="4YZPRC" idAlvaro="300637992" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190278684" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190278684" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 177190278684"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278684"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265385975" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538597" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 5126538597"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538597"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265385982" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538598" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 5126538598"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538598"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278691" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190278691" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 177190278691"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278691"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278707" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190278707" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 177190278707"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278707"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278714" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190278714" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120819592"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637992 177190278714"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190278714"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-01min-33segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-01min-43segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="109.0">
+            <paciente idAlvaro="178403199" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="16.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8376.0">
+        <solicitacao idLis="20181208200133704" incluido="true" baseBarras="4YZPRF" idAlvaro="300637995" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190278790" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190278790" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278790"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278790"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386033" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538603" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 5126538603"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538603"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="0512653860410" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538604" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 5126538604"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538604"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278806" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190278806" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278806"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278806"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278813" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190278813" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278813"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278813"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278820" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190278820" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278820"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190278820"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-01min-52segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="109.0">
+            <paciente idAlvaro="178403199" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="16.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8376.0">
+        <solicitacao idLis="20181208200133704" incluido="true" baseBarras="4YZPRF" idAlvaro="300637995" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190278790" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190278790" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278790"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278790"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386033" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538603" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 5126538603"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538603"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="0512653860410" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538604" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 5126538604"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538604"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278806" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190278806" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278806"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278806"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278813" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190278813" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278813"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278813"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278820" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190278820" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820013"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637995 177190278820"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190278820"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403202" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8066.0">
+        <solicitacao idLis="20181208200448736" incluido="true" baseBarras="4YZPRI" idAlvaro="300637998" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190278905" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190278905" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278905"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278905"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386095" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538609" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 5126538609"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538609"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386101" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538610" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 5126538610"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538610"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278912" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190278912" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278912"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278912"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278929" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190278929" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278929"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278929"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278936" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190278936" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278936"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190278936"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403202" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8066.0">
+        <solicitacao idLis="20181208200448736" incluido="true" baseBarras="4YZPRI" idAlvaro="300637998" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190278905" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190278905" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278905"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278905"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386095" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538609" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 5126538609"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538609"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386101" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538610" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 5126538610"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538610"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278912" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190278912" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278912"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278912"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278929" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190278929" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278929"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190278929"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190278936" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190278936" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820044"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300637998 177190278936"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190278936"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403205" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8192.0">
+        <solicitacao idLis="20181208200641966" incluido="true" baseBarras="4YZPRL" idAlvaro="300638001" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279018" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279018" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279018"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279018"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386156" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538615" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 5126538615"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538615"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386163" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538616" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 5126538616"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538616"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279025" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279025" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279025"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279025"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279032" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279032" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279032"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279032"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279049" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279049" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279049"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279049"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403205" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8192.0">
+        <solicitacao idLis="20181208200641966" incluido="true" baseBarras="4YZPRL" idAlvaro="300638001" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279018" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279018" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279018"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279018"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386156" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538615" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 5126538615"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538615"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386163" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538616" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 5126538616"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538616"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279025" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279025" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279025"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279025"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279032" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279032" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279032"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279032"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279049" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279049" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820064"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638001 177190279049"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279049"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="93.0">
+            <paciente idAlvaro="178403208" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="32.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="7015.0">
+        <solicitacao idLis="20181208201756436" incluido="true" baseBarras="4YZPRO" idAlvaro="300638004" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279124" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279124" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 177190279124"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279124"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386217" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538621" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 5126538621"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538621"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386224" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538622" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 5126538622"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538622"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279131" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279131" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 177190279131"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279131"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279148" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279148" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 177190279148"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279148"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279155" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279155" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820175"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638004 177190279155"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279155"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="140.0">
+        <pacientes tempoProcessamento="125.0">
+            <paciente idAlvaro="178403211" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="15.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="7079.0">
+        <solicitacao idLis="20181208202118143" incluido="true" baseBarras="4YZPRR" idAlvaro="300638007" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279230" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279230" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 177190279230"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279230"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386279" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538627" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 5126538627"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538627"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386286" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538628" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 5126538628"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538628"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279247" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279247" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 177190279247"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279247"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279254" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279254" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 177190279254"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279254"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279261" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279261" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820211"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638007 177190279261"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279261"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-25min-59segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-26min-22segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="109.0">
+        <pacientes tempoProcessamento="93.0">
+            <paciente idAlvaro="178403213" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="16.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="21546.0">
+        <solicitacao idLis="20181208202600233" incluido="true" baseBarras="4YZPRT" idAlvaro="300638009" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279308" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279308" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 177190279308"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279308"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386316" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538631" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 5126538631"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538631"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386323" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538632" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 5126538632"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538632"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279315" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279315" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 177190279315"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279315"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279322" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279322" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 177190279322"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279322"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279339" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279339" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820260"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638009 177190279339"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279339"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-28min-50segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-29min-15segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403215" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="22624.0">
+        <solicitacao idLis="20181208202851248" incluido="true" baseBarras="4YZPRV" idAlvaro="300638011" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279377" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279377" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 177190279377"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279377"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386354" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538635" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 5126538635"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538635"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386361" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538636" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 5126538636"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538636"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279384" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279384" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 177190279384"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279384"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279391" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279391" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 177190279391"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279391"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279407" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279407" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820285"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638011 177190279407"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279407"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-35min-03segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-35min-15segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="126.0">
+        <pacientes tempoProcessamento="95.0">
+            <paciente idAlvaro="178403217" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8048.0">
+        <solicitacao idLis="20181208203503774" incluido="true" baseBarras="4YZPRX" idAlvaro="300638013" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279445" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279445" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 177190279445"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279445"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386392" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538639" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 5126538639"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538639"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386408" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538640" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 5126538640"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538640"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279452" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279452" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 177190279452"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279452"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279469" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279469" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 177190279469"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279469"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279476" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279476" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820350"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638013 177190279476"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279476"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-38min-35segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-38min-46segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="109.0">
+            <paciente idAlvaro="178403219" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="16.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="8891.0">
+        <solicitacao idLis="20181208203836388" incluido="true" baseBarras="4YZPRZ" idAlvaro="300638015" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279513" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279513" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 177190279513"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279513"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386439" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538643" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 5126538643"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538643"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386446" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538644" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 5126538644"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538644"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279520" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279520" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 177190279520"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279520"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279537" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279537" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 177190279537"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279537"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279544" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279544" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820383"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638015 177190279544"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279544"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-45min-36segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-45min-45segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="110.0">
+            <paciente idAlvaro="178403223" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="15.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="7126.0">
+        <solicitacao idLis="20181208204536785" incluido="true" baseBarras="4YZPS3" idAlvaro="300638019" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279650" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279650" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 177190279650"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279650"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386514" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538651" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 5126538651"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538651"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386521" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538652" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 5126538652"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538652"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279667" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279667" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 177190279667"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279667"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279674" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279674" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 177190279674"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279674"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279681" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279681" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820453"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638019 177190279681"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279681"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>
+Dta:2018-12-08_Horario_Execucao:20hs-47min-10segs:
+
+
+Dta:2018-12-08_Horario_Execucao:20hs-47min-19segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178403225" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="7690.0">
+        <solicitacao idLis="20181208204711101" incluido="true" baseBarras="4YZPS5" idAlvaro="300638021" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190279728" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190279728" idDestino="35" identificacao="5555555" material="4956">
+                <exame exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 177190279728"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279728"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386552" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538655" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 5126538655"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538655"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265386569" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538656" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 5126538656"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538656"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279735" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190279735" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 177190279735"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279735"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279742" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190279742" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 177190279742"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190279742"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190279759" descricao="sample" descricaoAcondicionamento="A" descricaoMaterial="SANGUE TOT" idAcondicionamento="27" idAmostra="5" idAmostraExecutor="177190279759" idDestino="35" identificacao="" material="879">
+                <exame exame="FATORRH" incluido="true" informacao="Exame(s): FATORRH -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE 2018120820471"&#13;
+A10,17,0,1,1,1,N,"8776 08/12 300638021 177190279759"&#13;
+A10,32,0,1,1,1,R,"FATORRH"&#13;
+A380,2,1,1,2,1,R,"A"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SANGUE TOT"&#13;
+A365,85,1,1,1,1,N,"SAMPLE"&#13;
+B35,65,0,2,3,6,100,N,"177190279759"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>

@@ -1,0 +1,112 @@
+Dta:2018-11-21_Horario_Execucao:16hs-37min-10segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="140.0">
+        <pacientes tempoProcessamento="109.0">
+            <paciente idAlvaro="178402392" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="9125.0">
+        <solicitacao idLis="20181121163612540" incluido="true" baseBarras="4YZPB3" idAlvaro="300637407" tempoProcessamento="0.0">
+            <amostra codigoBarras="177190269095" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA TUBO" idAcondicionamento="26" idAmostra="0" idAmostraExecutor="177190269095" idDestino="35" identificacao="5555555" material="4956">
+                <exame dadosAdicionais="Leucocitos=300" exame="CCCT" incluido="true" informacao="Exame(s): CCCT -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"CONTROLE - VOUCHER 2018112116361"&#13;
+A10,17,0,1,1,1,N,"8776 21/11 300637407 177190269095"&#13;
+A10,32,0,1,1,1,R,"CCCT"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA TUBO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190269095"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265383407" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538340" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=100" exame="CITRA" incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"CONTROLE - VOUCHER 2018112116361"&#13;
+A10,17,0,1,1,1,N,"8776 21/11 300637407 5126538340"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538340"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="051265383414" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="2" idAmostraExecutor="5126538341" idDestino="3" identificacao="5555555" material="3175">
+                <exame dadosAdicionais="Volume=200" exame="OXALI" incluido="true" informacao="Exame(s): OXALI -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"CONTROLE - VOUCHER 2018112116361"&#13;
+A10,17,0,1,1,1,N,"8776 21/11 300637407 5126538341"&#13;
+A10,32,0,1,1,1,R,"OXALI"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2C,2,6,100,N,"5126538341"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190269101" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H" idAcondicionamento="26" idAmostra="3" idAmostraExecutor="177190269101" idDestino="35" identificacao="5555555" material="738">
+                <exame dadosAdicionais="Volume=100,Peso=80,Altura=180" exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"CONTROLE - VOUCHER 2018112116361"&#13;
+A10,17,0,1,1,1,N,"8776 21/11 300637407 177190269101"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190269101"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+            <amostra codigoBarras="177190269118" descricao="AMOSTRA" descricaoAcondicionamento="R" descricaoMaterial="SORO" idAcondicionamento="26" idAmostra="4" idAmostraExecutor="177190269118" idDestino="35" identificacao="5555555" material="543">
+                <exame exame="CLEAR1" incluido="true" informacao="Exame(s): CLEAR1 -&gt; incluído(s) com sucesso!"/>
+                <layoutetiqueta>
+                    <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"CONTROLE - VOUCHER 2018112116361"&#13;
+A10,17,0,1,1,1,N,"8776 21/11 300637407 177190269118"&#13;
+A10,32,0,1,1,1,R,"CLEAR1"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"SORO"&#13;
+A365,85,1,1,1,1,N,"AMOSTRA"&#13;
+B35,65,0,2,3,6,100,N,"177190269118"&#13;
+P1&#13;
+</layout>
+                </layoutetiqueta>
+            </amostra>
+        </solicitacao>
+    </solicitacoes>
+</aol>

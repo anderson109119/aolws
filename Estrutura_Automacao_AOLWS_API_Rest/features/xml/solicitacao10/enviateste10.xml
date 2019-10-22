@@ -1,0 +1,11 @@
+<exclusoes idagente="175342" lis="Facil2015" operador="CAMILA" 
+		senha="4D74C5">  
+		<entidade codigo="8776">
+		<solicitacao idAlvaro="300637392">
+		<exame codigoExame="CCCT"/>
+		<exame codigoExame="CITRA"/>
+		<exame codigoExame="OXALI"/>
+		<exame codigoExame="CLEAR1"/>
+		</solicitacao>  
+		</entidade>
+		</exclusoes>

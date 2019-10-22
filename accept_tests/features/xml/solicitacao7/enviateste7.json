@@ -1,0 +1,19 @@
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"substituircodbarras",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}

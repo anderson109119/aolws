@@ -1,0 +1,14 @@
+<exclusoes idagente="175342" lis="B" operador="YY" senha="4D74C5">
+	<entidade codigo="8776">
+	<solicitacao idAlvaro="300350271">
+	<exame codigoExame="CITRA"/>
+	<exame codigoExame="OXALI"/>
+	<exame codigoExame="CCCT"/>
+	<exame codigoExame="T4L"/>
+	<exame codigoExame="TSH"/>
+	<exame codigoExame="COAG4"/>
+    <exame codigoExame="CREAT2"/>
+    <exame codigoExame="CLEAR1"/>
+    </solicitacao>
+	</entidade>
+	</exclusoes>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+		<solicitacoes datahora="2016-08-01T09:56:52" idagente="175342" lis="Facil2015" operador="CAMILA" senha="4D74C5" versao="20090801">
+        <entidade codigo="8776">
+        <pacientes>
+        <paciente codigolis="123" datanasc="1955-02-05" nome="PACIENTE TESTE" sexo="M"/>
+        </pacientes>
+        <medicos>
+        <medico crm="809239-BA" nome="NOME DO MÉDICO"/>
+        </medicos>
+        <solicitacao codigolis="20180702161250654" codigopaciente="123" crm="809239-BA" observacao="part" data="2016-07-01">
+        <amostra material="4956" identificacao="1" descricao="1">
+        <exame codigo="CCCT" dadosadicionais="Leucocitos=300"/>
+        </amostra>
+        <amostra material="5210" identificacao="12345678901234" descricao="12345678901234">
+        <exame codigo="HERPZ" dadosadicionais=""/>
+        </amostra>        
+        <amostra material="3175" identificacao="2" descricao="2">
+        <exame codigo="CITRA" dadosadicionais="volume=100"/>
+        <exame codigo="OXALI" dadosadicionais="volume=200"/>
+        </amostra>
+        <amostra material="543" identificacao="" descricao="">
+        <exame codigo="T4L" dadosadicionais=""/>
+        </amostra>    
+        <amostra material="1021" identificacao="3" descricao="3">
+        <exame codigo="CLEAR1" dadosadicionais="altura=180@carac#xA;peso=80@carac#xA;volume=100"/>
+        </amostra>
+        <amostra material="543" identificacao="1" descricao="">
+        <exame codigo="TSH" dadosadicionais=""/>
+        </amostra>        
+        </solicitacao>
+        </entidade>
+        </solicitacoes>

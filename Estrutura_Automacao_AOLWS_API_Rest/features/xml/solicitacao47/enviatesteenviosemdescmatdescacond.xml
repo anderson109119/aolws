@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="substituirenvio29" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>

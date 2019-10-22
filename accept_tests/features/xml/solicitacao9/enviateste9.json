@@ -1,0 +1,11 @@
+                {
+                "paciente":
+                {
+                               "nome":"Teste entrada requisição",
+                               "dataNascimento":"1980-05-10"
+                },
+                "dataCadastro":"2018-01-03 12:35:50",
+                "dataPrevistoResultado":"2018-01-08 12:35:50",
+                "codigoEntidadeAlvaro":"2626",
+                "codigoExameAlvaro":"TOXMED"
+}

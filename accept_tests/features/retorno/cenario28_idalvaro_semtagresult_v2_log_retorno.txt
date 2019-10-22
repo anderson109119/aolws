@@ -1,0 +1,97 @@
+Dta:2018-11-21_Horario_Execucao:16hs-37min-10segs:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resultados datahora="2018-11-21 16:31:34" origem="aol" versao="20101018">
+  <cadastros>
+    <pacientes>
+      <paciente codigo="133799134" codigo_lis="" datanasc="22/02/1973" nome="Paciente Teste 133799134" sexo="F"/>
+    </pacientes>
+    <materiais>
+      <material codigo="543" descricao="soro"/>
+      <material codigo="3501" descricao="soro - tubo Trace"/>
+      <material codigo="4941" descricao="Soro Vit. D"/>
+    </materiais>
+    <exame codigo="B12" descricao="VITAMINA B12" dataalteracao="22/06/2016 14:26:24">
+      <linhasresultado>
+        <linha codigo="110" descricao="VITAMINA B12" unidade="pg/mL"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[210,0 - 980,0 pg/mL]]></valorreferencia>
+    </exame>
+    <exame codigo="FAN4" descricao="FATOR ANTI-NUCLEAR (FAN)" dataalteracao="11/12/2016 10:21:10">
+      <linhasresultado>
+        <linha codigo="11633" descricao="NÚCLEO"/>
+        <linha codigo="11634" descricao="NUCLÉOLO"/>
+        <linha codigo="11635" descricao="CITOPLASMA"/>
+        <linha codigo="11636" descricao="APARELHO MITÓTICO"/>
+        <linha codigo="11637" descricao="PLACA METAFÁSICA CROMOSSOMICA"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[Não reagente
+Avanços técnicos no teste de FAN levaram a um 
+aumento em sua sensibilidade e consequentemente
+uma redução na sua especificidade.Visando melho- 
+rar o valor preditivo do teste,passamos a utilizar
+diluição inicial de 1/80 a partir de 01/02/16.]]></valorreferencia>
+    </exame>
+    <exame codigo="FOLIC" descricao="ÁCIDO FÓLICO" dataalteracao="22/06/2016 14:26:24">
+      <linhasresultado>
+        <linha codigo="568" descricao="ÁCIDO FÓLICO" unidade="ng/mL"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[Superior a 5,38 ng/mL]]></valorreferencia>
+    </exame>
+    <exame codigo="VIT25" descricao="VITAMINA D - 25 HIDROXI" dataalteracao="11/12/2016 09:35:49">
+      <linhasresultado>
+        <linha codigo="4101" descricao="VITAMINA D - 25 HIDROXI" unidade="ng/mL"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[Deficiência:   até 20 ng/mL
+Insuficiência: de 21 a 29 ng/mL
+Suficiência:   de 30 a 100 ng/mL
+NOTA: Valores de 25 hidroxi-vitamina D de 30 a 
+100 ng/mL são considerados suficientes por terem
+apresentado melhor correlação com a absorção de 
+cálcio, densidade mineral óssea e níveis de PTH.
+Valores inferiores a 30 ng/mL podem ser indica-
+tivos de insuficiência ou deficiência, devendo ser
+correlacionados com a clínica e com os demais  
+exames laboratoriais de avaliação do metabolismo
+do cálcio.
+Fonte: Holick MF et al. Clinical Practice Guideli-
+ne: Evaluation, treatment and prevention of vita-
+min D deficiency:an endocrine Society Clinical 
+Practice Guideline. JCEM 2011,96(7):1911-1930).]]></valorreferencia>
+    </exame>
+    <exame codigo="ZN" descricao="ZINCO SÉRICO" dataalteracao="22/06/2016 14:26:24">
+      <linhasresultado>
+        <linha codigo="1320" descricao="ZINCO SÉRICO" unidade="ug/dL"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[70,0 a 120,0 ug/dL (Carência:abaixo de 30,0 ug/dL)
+Até 170,0 ug/dL (Exposição ocupacional)]]></valorreferencia>
+    </exame>
+  </cadastros>
+  <solicitacao codigo="137908283" codigo_aol="" codigo_lis="" paciente="133799134">
+    <amostras>
+      <amostra codigo="0" descricao="basal" identificacao="" material="543"/>
+      <amostra codigo="1" descricao="basal" identificacao="" material="3501"/>
+      <amostra codigo="2" descricao="basal" identificacao="" material="543"/>
+      <amostra codigo="3" descricao="basal" identificacao="" material="4941"/>
+    </amostras>
+    <exame codigo="B12" observacao="" metodo="Quimioluminescência (CLIA)" normal="S" dataresultado="21/11/2018 16:31:34" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="0" linharesultado="110" id_lis="" resultado="   279,0"/>
+    </exame>
+    <exame codigo="FAN4" observacao="" metodo="Imunofluorescência indireta em células epiteliais humanas(HEP2)" normal="S" dataresultado="21/11/2018 16:31:34" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="2" linharesultado="11633" id_lis="" resultado="Não Reagente"/>
+      <resultado amostra="2" linharesultado="11634" id_lis="" resultado="Não Reagente"/>
+      <resultado amostra="2" linharesultado="11635" id_lis="" resultado="Não Reagente"/>
+      <resultado amostra="2" linharesultado="11636" id_lis="" resultado="Não Reagente"/>
+      <resultado amostra="2" linharesultado="11637" id_lis="" resultado="Não Reagente"/>
+    </exame>
+    <exame codigo="FOLIC" observacao="Bibliografia: Valor mínimo do estudo NHANES (National Health and Nutrition Examination Survey), 1999 - 2004." metodo="Quimioluminescência (CLIA)" normal="S" dataresultado="21/11/2018 16:31:34" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="0" linharesultado="568" id_lis="" resultado="     7,7"/>
+    </exame>
+    <exame codigo="VIT25" observacao="" metodo="Imunoensaio Quimioluminescente de Micropartículas - CMIA" normal="S" dataresultado="21/11/2018 16:31:34" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="3" linharesultado="4101" id_lis="" resultado="    44,7"/>
+    </exame>
+    <exame codigo="ZN" observacao="Resultado avaliado e liberado." metodo="Espectrometria de Absorção Atômica" normal="N" dataresultado="21/11/2018 16:31:34" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="1" linharesultado="1320" id_lis="" resultado="   155,2"/>
+    </exame>
+  </solicitacao>
+</resultados>

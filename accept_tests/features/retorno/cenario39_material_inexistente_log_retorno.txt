@@ -1,0 +1,18 @@
+Dta:2018-11-21_Horario_Execucao:16hs-37min-10segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aol versao="0">
+    <cadastros tempoProcessamento="125.0">
+        <pacientes tempoProcessamento="94.0">
+            <paciente idAlvaro="178402390" idLis="123"/>
+        </pacientes>
+        <medicos tempoProcessamento="31.0">
+            <medico crm="809239-BA" idAlvaro="371539"/>
+        </medicos>
+    </cadastros>
+    <solicitacoes tempoProcessamento="109.0">
+        <solicitacao idLis="20181121163555030" incluido="false" informacao="OS NÃO INSERIDA - ">
+            <amostra idAmostra="0" identificacao="O material 5100 não é valido para o exame CCCT." material="5100"/>
+        </solicitacao>
+    </solicitacoes>
+</aol>

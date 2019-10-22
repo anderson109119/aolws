@@ -1,0 +1,30 @@
+Dta:2018-12-10_Horario_Execucao:17hs-07min-23segs:
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inclusoes tempoProcessamento="0.0">
+  <entidade codigo="8776">
+    <solicitacao baseBarras="4YTJR3" idAlvaro="300350271">
+      <amostra codigoBarras="051265388211" descricao="2" descricaoAcondicionamento="R" descricaoMaterial="URINA 24H " idAcondicionamento="26" idAmostra="1" idAmostraExecutor="5126538821" idDestino="3" identificacao="2" incluido="true" material="3175">
+        <exame incluido="true" informacao="Exame(s): CITRA -&gt; incluído(s) com sucesso!">
+          <exame>CITRA</exame>
+        </exame>
+        <layoutetiqueta>
+          <layout>N&#13;
+ZB&#13;
+q400&#13;
+D10&#13;
+A10,2,0,1,1,1,N,"PACIENTE TESTE X223JX55408"&#13;
+A10,17,0,1,1,1,N,"8776 10/12 300350271 5126538821"&#13;
+A10,32,0,1,1,1,R,"CITRA"&#13;
+A380,2,1,1,2,1,R,"R"&#13;
+A380,20,1,1,2,1,R,"S/L"&#13;
+A380,85,1,1,1,1,N,"URINA 24H "&#13;
+A365,85,1,1,1,1,N,"2"&#13;
+B35,65,0,2C,2,6,100,N,"5126538821"&#13;
+P1&#13;
+</layout>
+        </layoutetiqueta>
+      </amostra>
+    </solicitacao>
+  </entidade>
+</inclusoes>

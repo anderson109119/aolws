@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-05-02T17:45:00.000-03:00"
+		idagente="175342" lis="dapo-apoiob2b" operador="dapo-apoiob2b" senha="4D74C5" versao="20170918">
+		<entidade chave="43a20d90657d01c3" codigo="8776">
+		<pacientes>
+		<paciente codigolis="KNtr13OnJd8776" datanasc="1973-05-02-03:00" nome="Teste 333" sexo="M" />
+		</pacientes>
+		<medicos>
+		<medico crm="0000-00" nome="LABORATÓRIO DE ANÁLISES CLÍNICAS" />
+		</medicos>
+		<solicitacao codigolis="20181212144726966" codigopaciente="KNtr13OnJd8776" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="TESTEPATWELL3">
+		<amostra descricao="basal" material="5099">
+		<exame codigo="PAT" dadosadicionais="">
+		<exameParticipante nome="Sebastiao Soares Rodrigues" sexo="M" tipo="SUPOSTO PAI" datanasc="1963-02-06-03:00" nomeColetador="Funcionario " nomeJuiz="" nomeIdentificador="Sebastião " />
+		</exame>
+		<exame codigo="PAT" dadosadicionais="">
+		<exameParticipante nome="Patricia Nascimento De Moraes" sexo="F" tipo="FILHO" datanasc="1988-01-05-02:00" nomeColetador="Funcionario " nomeJuiz="" nomeIdentificador="Patricia" />
+		</exame>
+		<exame codigo="PAT" dadosadicionais="">
+		<exameParticipante nome="Regina Nascimento De Moares" sexo="F" tipo="MAE" datanasc="1965-06-05-03:00" nomeColetador="Funcionario " nomeJuiz="" nomeIdentificador="Regina " />
+		</exame>
+		</amostra>
+		</solicitacao>
+		</entidade>
+		</solicitacoes>

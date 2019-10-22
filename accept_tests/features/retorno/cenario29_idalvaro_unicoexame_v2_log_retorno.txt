@@ -1,0 +1,42 @@
+Dta:2018-11-21_Horario_Execucao:16hs-37min-10segs:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resultados datahora="2018-11-21 16:31:37" origem="aol" versao="20101018">
+  <cadastros>
+    <pacientes>
+      <paciente codigo="133799134" codigo_lis="" datanasc="22/02/1973" nome="Paciente Teste 133799134" sexo="F"/>
+    </pacientes>
+    <materiais>
+      <material codigo="4941" descricao="Soro Vit. D"/>
+    </materiais>
+    <exame codigo="VIT25" descricao="VITAMINA D - 25 HIDROXI" dataalteracao="11/12/2016 09:35:49">
+      <linhasresultado>
+        <linha codigo="4101" descricao="VITAMINA D - 25 HIDROXI" unidade="ng/mL"/>
+      </linhasresultado>
+      <valorreferencia><![CDATA[Deficiência:   até 20 ng/mL
+Insuficiência: de 21 a 29 ng/mL
+Suficiência:   de 30 a 100 ng/mL
+NOTA: Valores de 25 hidroxi-vitamina D de 30 a 
+100 ng/mL são considerados suficientes por terem
+apresentado melhor correlação com a absorção de 
+cálcio, densidade mineral óssea e níveis de PTH.
+Valores inferiores a 30 ng/mL podem ser indica-
+tivos de insuficiência ou deficiência, devendo ser
+correlacionados com a clínica e com os demais  
+exames laboratoriais de avaliação do metabolismo
+do cálcio.
+Fonte: Holick MF et al. Clinical Practice Guideli-
+ne: Evaluation, treatment and prevention of vita-
+min D deficiency:an endocrine Society Clinical 
+Practice Guideline. JCEM 2011,96(7):1911-1930).]]></valorreferencia>
+    </exame>
+  </cadastros>
+  <solicitacao codigo="137908283" codigo_aol="" codigo_lis="" paciente="133799134">
+    <amostras>
+      <amostra codigo="3" descricao="basal" identificacao="" material="4941"/>
+    </amostras>
+    <exame codigo="VIT25" observacao="" metodo="Imunoensaio Quimioluminescente de Micropartículas - CMIA" normal="S" dataresultado="21/11/2018 16:31:38" responsaveltecnico="Dr. Gustavo Aguiar Campana" responsaveltecnicodocumento="CRM-SP: 112181">
+      <resultado amostra="3" linharesultado="4101" id_lis="" resultado="    44,7"/>
+    </exame>
+  </solicitacao>
+</resultados>

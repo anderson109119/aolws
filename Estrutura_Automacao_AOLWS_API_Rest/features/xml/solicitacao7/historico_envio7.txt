@@ -1,0 +1,723 @@
+Dta:2018-12-08_Horario_Execucao:22hs-47min-12segs:
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}
+{  
+	 	"idAgente":"9108",
+	  	"senha":"C22AD2",
+	  	"idEntidade":"6472",
+	  	"lotes":[  
+	    	{  
+	       		"idAcondicionamento":"25",
+	        	"idDestino":"1",
+	        	"mnemonico": "1",
+	        	"statusLote":"ADICIONADO",
+	        	"amostras":[  
+	          {  
+	             "codigoBarras":"177190268098",
+	              "status":"ADICIONADO"
+	           			}
+	        		]
+	     		}
+	  		]
+		}

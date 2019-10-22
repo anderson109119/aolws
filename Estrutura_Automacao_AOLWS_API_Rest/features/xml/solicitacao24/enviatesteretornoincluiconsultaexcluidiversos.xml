@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+		<inclusoes datahora="2014-05-02T10:35:56" idagente="175342" lis="B" operador="YY" senha="4D74C5">
+  		<entidade codigo="8776">
+		<solicitacao idAlvaro="300350271">
+	  	<amostra material="3175" identificacao="2" descricao="2" novaAmostra="true">
+		<exame codigoExame="CITRA"/>
+		<exame codigoExame="OXALI"/>
+	  	</amostra>
+	  	<amostra material="4956" identificacao="1" descricao="1" novaAmostra="true">
+	  	<exame codigoExame="CCCT"/>
+	  	</amostra>
+	  	<amostra material="543" identificacao="1" descricao="" novaAmostra="true">
+        <exame codigoExame="T4L"/>
+        </amostra>
+        <amostra material="543" identificacao="1" descricao="" novaAmostra="true"> 
+        <exame codigoExame="TSH"/>
+        </amostra>
+        <amostra material="1021" identificacao="3" descricao="3" novaAmostra="true">
+        <exame codigoExame="CLEAR1"/>
+        </amostra>
+       	<amostra material="4681" identificacao="" descricao="" novaAmostra="true">
+	  	<exame codigoExame="COAG4"/>
+	  	</amostra>
+		</solicitacao>
+  		</entidade>
+		</inclusoes>

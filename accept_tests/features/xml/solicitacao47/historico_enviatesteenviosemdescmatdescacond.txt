@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704115710981" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704115748855" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704134654336" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704135158563" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704135452360" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704135512413" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704135951577" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180704140218076" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180710094708687" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180724093228443" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180724103815455" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180724105306297" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725210417983" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725210450791" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725210710014" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725210800106" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725210821810" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725211434290" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725212209329" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725215125713" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180725220243544" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180726062010830" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180731223155444" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180806160851320" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20180806161505914" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010112956040" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010122628776" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010130312682" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010132657428" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010141750729" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010142653119" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010144340725" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010145836157" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010154603767" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010155458339" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010160254987" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010161809190" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010163803050" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010165529733" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010183320644" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010204433000" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181010210458360" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181017105744884" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181023081313419" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181023091337587" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181023092612431" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181023093757346" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181023184815129" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181121162207569" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-06-30T17:45:00.000-03:00" idagente="175342" lis="TESTE_AUTOMATIZADO" operador="TESTE_AUTOMATIZADO" senha="4D74C5" versao="20180630">
+    	<entidade chave="43a20d90657d01c3" codigo="8776">
+        <pacientes>
+        <paciente codigolis="IDPACIENTE" datanasc="1973-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="0000-00" nome="MEDICO TESTE" />
+        </medicos>
+        <solicitacao codigolis="20181121163634666" codigopaciente="IDPACIENTE" crm="0000-00" data="2018-05-02-03:00" medicamentos="" observacao="" id_sequencial="">
+        <amostra descricao="" material="543">
+        <exame codigo="T3" dadosadicionais="volume=100" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>

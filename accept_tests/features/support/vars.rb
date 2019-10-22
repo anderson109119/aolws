@@ -1,0 +1,5 @@
+$arquivo = File.open(File.join(Dir.pwd, 'features', 'xml', 'solicitacao', 'enviateste.xml'))
+$arquivo48 = File.open(File.join(Dir.pwd, 'features', 'xml', 'solicitacao48', 'enviatesteenvioamostraexisteste.xml'))
+$arquivo49 = File.open(File.join(Dir.pwd, 'features', 'xml', 'solicitacao49', 'enviatesteincluiexamet3novaamostra.xml'))
+$arquivo50 = File.open(File.join(Dir.pwd, 'features', 'xml', 'solicitacao50', 'enviatesteincluiexametshnovaamostra.xml'))
+$arquivo51 = File.open(File.join(Dir.pwd, 'features', 'xml', 'solicitacao51', 'enviatestedadosadicionaisdoexame.xml'))

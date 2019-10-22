@@ -1,0 +1,15 @@
+<solicitacoes datahora="2016-08-01T09:56:52" idagente="175342" lis="Facil2015" operador="CAMILA" senha="4D74C5" versao="20090801">
+    	<entidade codigo="8776">
+        <pacientes>
+        <paciente codigolis="123" datanasc="1955-02-05" nome="PACIENTE TESTE" sexo="M" />
+        </pacientes>
+        <medicos>
+        <medico crm="809239-BA" nome="NOME DO MÉDICO" />
+        </medicos>
+        <solicitacao codigolis="20190104150749117" codigopaciente="123" crm="809239-BA" observacao="part" data="2016-07-01">
+        <amostra material="5100" identificacao="1" descricao="1">
+        <exame codigo="CCCCT" dadosadicionais="Leucocitos=300" />
+        </amostra>
+        </solicitacao>
+    	</entidade>
+		</solicitacoes>

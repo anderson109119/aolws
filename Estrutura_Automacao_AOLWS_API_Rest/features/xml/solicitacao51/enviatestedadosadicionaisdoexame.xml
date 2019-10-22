@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+		<solicitacoes datahora="2018-09-19T17:45:00.000-03:00" idagente="175342" lis="AOLWS" operador="AOLWS" senha="4D74C5" versao="20180723">
+  		<entidade chave="43a20d90657d01c3" codigo="8776">
+    	<pacientes>
+      	<paciente codigolis="123" datanasc="1987-05-02-03:00" nome="PACIENTE TESTE" sexo="M" />
+    	</pacientes>
+    	<medicos>
+      	<medico crm="0000-00" nome="LAB" />
+    	</medicos>
+    	<solicitacao codigolis="20181121163648445" codigopaciente="123" crm="0000-00" data="2018-09-19-03:00" medicamentos="" observacao="" id_sequencial="">
+      	<amostra descricao="basal" material="738">
+        <exame codigo="CA24" dadosadicionais="volume=100"/>
+        </amostra>
+    	</solicitacao>
+  		</entidade>
+		</solicitacoes>
